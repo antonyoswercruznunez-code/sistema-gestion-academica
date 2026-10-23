@@ -1,1 +1,1 @@
-Estado del sistema: desarrollo del modulo de estudiantes
+Estado del sistema: desarrollo del modulo de estudiantes y cursos
