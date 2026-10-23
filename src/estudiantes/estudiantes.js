@@ -8,3 +8,7 @@ function registrarEstudiante(codigo, nombre) {
 function listarEstudiantes() {
   return estudiantes;
 }
+
+function buscarEstudiante(codigo) {
+  return estudiantes.find(e => e.codigo === codigo);
+}
