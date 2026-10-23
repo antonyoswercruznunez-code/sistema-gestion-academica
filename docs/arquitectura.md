@@ -6,3 +6,5 @@ Aplicación web estática organizada por módulos:
 - `src/cursos/`: gestión de cursos.
 - `src/matriculas/`: matrículas.
 - `tests/`: plan de pruebas.
+
+Los módulos se comunican mediante JavaScript en el navegador.
